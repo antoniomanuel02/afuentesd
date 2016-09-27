@@ -1,7 +1,0 @@
-/home/antonio/Escritorio/robotica/ejemplo1/build/CMakeFiles/install.dir
-/home/antonio/Escritorio/robotica/ejemplo1/build/CMakeFiles/list_install_components.dir
-/home/antonio/Escritorio/robotica/ejemplo1/build/CMakeFiles/rebuild_cache.dir
-/home/antonio/Escritorio/robotica/ejemplo1/build/CMakeFiles/ejemplo1.dir
-/home/antonio/Escritorio/robotica/ejemplo1/build/CMakeFiles/install/local.dir
-/home/antonio/Escritorio/robotica/ejemplo1/build/CMakeFiles/install/strip.dir
-/home/antonio/Escritorio/robotica/ejemplo1/build/CMakeFiles/edit_cache.dir
